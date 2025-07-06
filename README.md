@@ -5,11 +5,14 @@
 Thank you, Chi Ieng and Amanda, for being amazing teammates! <3
 > inAudible guides teachers and students to have a conducive learning space, one 'beep' at a time.
 
+## Code
+[Access here](https://makecode.microbit.org/77137-70565-82481-95735)
+
 ## Table of Contents
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Ideation](#ideation)
-* [Development Process](#development-process)
+* [Prototype](#prototype)
 * [Discussion](#discussion)
 * [Photos](#photos)
 * [Acknowledgements](#acknowledgements)
@@ -30,11 +33,13 @@ Thank you, Chi Ieng and Amanda, for being amazing teammates! <3
 - School environment - A more conducive environment for everyone
 
 ## Ideation
-- Personalisation of app (input of dietary restrictions and preferences)
-- AI-powered weekly meal planner
-- Database of food and nutritional value
-- FoodFriend AI Chatbot
+A noise level monitor with 4 preset levels of noise, and appropriate response:
+* Noise level 1: Acceptable noise level (students may be discussing work)
+* Noise level 2: Gentle reminder to the students to lower down their volume
+* Noise level 3: Warning for students to lower their volume
+* Noise level 4 (consistent): Warning for students to lower their volume. A message is also sent to the general office and form teachers to inform that the class is too noisy consistently, and from there send a nearby teacher to help manage the class.
 
+## Prototype
 ## Room for Improvement
 - Personalisation page
 - Nutrition tracker
