@@ -10,7 +10,6 @@ Thank you, Chi Ieng and Amanda, for being amazing teammates! <3
 
 ## Table of Contents
 * [General Information](#general-information)
-* [Technologies Used](#technologies-used)
 * [Ideation](#ideation)
 * [Prototype](#prototype)
 * [Discussion](#discussion)
