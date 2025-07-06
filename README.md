@@ -1,98 +1,39 @@
 ![Logo](https://github.com/pohss-com-sg/inaudible/blob/main/image.png)
 
-# _in_Audible
+# inAudible
 ### This project was made by GESS Team 2 for MGS-NYP Young Catalysts Micro:bit Challenge 2022. 
 Thank you, Chi Ieng and Amanda, for being amazing teammates! <3
-> I ATE is an AI-power mobile application that supports individuals with dietary restrictions in accessing suitable foods while maintaining a nutritionally balanced diet.
+> inAudible guides teachers and students to have a conducive learning space, one 'beep' at a time.
 
 ## Table of Contents
 * [General Information](#general-information)
-* [Installation Process](#installation-process)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
+* [Ideation](#ideation)
 * [Development Process](#development-process)
-* [Room for Improvement](#room-for-improvement)
+* [Discussion](#discussion)
+* [Photos](#photos)
 * [Acknowledgements](#acknowledgements)
 
-## Google Slides
-
-* [Slides]https://docs.google.com/presentation/d/14jXrzb1aPX2L9YmG7r4wmZvYFKqmFRqS2z5jpoAswdo/edit?usp=sharing
-
 ## General Information
-I ATE is a project designed to support individuals with dietary restrictions arising from various causes such as chronic illnesses, physical conditions, allergies, and more. With approximately 1 in 3 Singaporeans requiring dietary or lifestyle modifications, I ATE aims to simplify and support this different way of life.
+> Excessive noise negatively impacts both the students' learning and the teachers' teaching, whether it is in the same classroom or classrooms close to the noisy classroom, and can disrupt the serenity of the school environment.
 
-FoodFriend is an AI-powered mobile application that features a personalised meal planner, AI chatbot, and a large food database to cater the varying needs of users.
+### What we Want to Achieve
+- Empower students and student leaders to be more self disciplined, with real time feedback
+- Provide a more conducive learning environment
+- Reduce disruption to other nearby classes and teachers
+- Provide data to help teachers manage class
 
-## Installation Process
-Clone the project
+### Themes Covered
+- Student well-being - Students enjoy a more conducive learning environment, and experience less stress
+- Staff well-being - Teachers spend less time and effort managing class, and experience less stress
+- Teachingand learning - Students enjoy a more conducive learning environment, learn to self-regulate, and exercise personal responsibility and leadership skills
+- School environment - A more conducive environment for everyone
 
-```bash
-  git clone https://github.com/pohss-com-sg/I-ATE-I8.git
-```
-
-Go to the project directory
-
-```bash
-  cd I-ATE-I8
-```
-
-Install dependencies
-
-```bash
-  pip install Flask-SQLAlchemy
-  pip install google-gemini
-  import ast
-  install python 3.13.2
-```
-
-Start the server either by using the Start button in app.py on Visual Studio Code,
-
-or through
-```bash
-  python app.py
-```
-
-## Technologies Used
-- Python - 3.13.2 64-bit
-- Gemini - Gemini 2.0 Flash
-- Javascript
-- HTML
-- CSS
-- ChatGPT - 3.5 & 4.0
-
-
-## Features
+## Ideation
 - Personalisation of app (input of dietary restrictions and preferences)
 - AI-powered weekly meal planner
 - Database of food and nutritional value
 - FoodFriend AI Chatbot
-
-
-## Development Process
-10th June 2025
-- Experimented with Gemini API
-- Built backbone of website with HTML and CSS
-- Discussion of features to be implemented
-- Explored libraries (e.g. pocketsphinx, vosk, google generative ai)
-- Began on presentation slides and script for BuildingBloCS Hackathon
-
-11th June 2025
-- Continuation of creating presentation slides and script
-- Coded Gemini in Python and engineered input prompts and system instructions to customise AI for food advice
-- Coded Gemini for weekly meal planner
-- Continuation of website building with HTML and CSS
-
-12th June 2025
-- Javascript for template of large food database
-
-13th June 2025
-- Presentation rehearsal
-- Integrated Gemini into website (Both chatbot and meal planner)
-- a lot of confusion
-- UI/UX design of mobile app
-
-14th June 2025
-  - Presentation to judges
 
 ## Room for Improvement
 - Personalisation page
