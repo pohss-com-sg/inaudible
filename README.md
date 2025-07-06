@@ -6,7 +6,7 @@ Thank you, Chi Ieng and Amanda, for being amazing teammates! <3
 > inAudible guides teachers and students to have a conducive learning space, one 'beep' at a time.
 
 ## Code
-[Access here](https://makecode.microbit.org/77137-70565-82481-95735)
+[**Access here!**](https://makecode.microbit.org/77137-70565-82481-95735)
 
 ## Table of Contents
 * [General Information](#general-information)
@@ -40,6 +40,15 @@ A noise level monitor with 4 preset levels of noise, and appropriate response:
 * Noise level 4 (consistent): Warning for students to lower their volume. A message is also sent to the general office and form teachers to inform that the class is too noisy consistently, and from there send a nearby teacher to help manage the class.
 
 ## Prototype
+### Design
+![Prototype design](https://github.com/pohss-com-sg/inaudible/blob/main/prototype.jpg)
+
+### How the code works
+* Detect noise level using built-in microphone of microbit v2, and this is calibrated to match the dB measurement system (using another sound detection app in a smartphone, and a sound wave generator)
+  ![Table](https://github.com/pohss-com-sg/inaudible/blob/main/table.png)
+* At each noise level, the microbit LED display and extemal LED lights will show the appropriate facial expression symbols and LED colours
+  
+
 ## Room for Improvement
 - Personalisation page
 - Nutrition tracker
