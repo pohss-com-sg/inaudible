@@ -47,22 +47,23 @@ A noise level monitor with 4 preset levels of noise, and appropriate response:
 * Detect noise level using built-in microphone of microbit v2, and this is calibrated to match the dB measurement system (using another sound detection app in a smartphone, and a sound wave generator)
   ![Table](https://github.com/pohss-com-sg/inaudible/blob/main/table.png)
 * At each noise level, the microbit LED display and extemal LED lights will show the appropriate facial expression symbols and LED colours
-  
+* At the same time, data (level and duration) is collected into the built-in storage, that the teacher can download and use.
+* We also envision having the microbit wirelessly transmit the data to other receivers, and even made available on a web-app, so that the real time information can be accessed by the general office and teachers.
 
-## Room for Improvement
-- Personalisation page
-- Nutrition tracker
-- Multilingual UI
-- Voice-powered AI (speech-to-text with vosk)
-- Image recognition of food items (ChatGPT)
-- UI/UX Improvement
+## Discussion
+* Our prototype mainly benefits the students that want to study when no teacher is around and also helps reduce the need of Teachers having to come over and watch the class.
+* The current InAudible prototype does not cost much as it is only powered by a microbit and simple components.
+* However, we may enhance the display with larger and more visible graphics on larger screens to improve visibility for the whole class, and these may be costly to install.
 
+### inAudible enhances leadership qualities in each student, and helps them concentrate on work when no teacher is around. There are some possible improvements to this system for future iterations, to improve effectiveness.
+
+## Photos
 
 ## Acknowledgements
-- This project was inspired by our conference group name 'i8' (a homophone of 'I ATE')
-- Many thanks to...
-  - [https://buildingblocs.sg/] for very helpful coding and AI workshops
-  - [https://gemini.google.com] for the API and database jsonfile
-  - [https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project] for the README.md reference
-  - [https://chatgpt.com/?model=gpt-4o] for research of prevalence of dietary restrictions
-  - [https://www.ncbi.nlm.nih.gov/] for research of prevalence of dietary restrictions
+We had a really interesting time with this project, and learnt a lot from this experience.
+We would like to thank the following for their support to our team:
+* **Methodist Girls' School** and **Nanyang Polytechnic** for organising the competition, for the Microbit training, and for hosting our tour at the NYP MakerSpace.
+* Our **teachers** for guiding and supporting us: Mr Tan, Mr Kwok, Mr Lim, Mr Quek.
+* Our **mentors** for mentoring us.
+* Our **friends** from the other teams for their encouragement and friendship.
+
