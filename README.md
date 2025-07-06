@@ -1,6 +1,6 @@
 ![Logo](https://github.com/pohss-com-sg/inaudible/blob/main/image.png)
 
-# _in_ Audible
+# _in_Audible
 ### This project was made by GESS Team 2 for MGS-NYP Young Catalysts Micro:bit Challenge 2022. 
 Thank you, Chi Ieng and Amanda, for being amazing teammates! <3
 > I ATE is an AI-power mobile application that supports individuals with dietary restrictions in accessing suitable foods while maintaining a nutritionally balanced diet.
