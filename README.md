@@ -58,7 +58,8 @@ A noise level monitor with 4 preset levels of noise, and appropriate response:
 ### inAudible enhances leadership qualities in each student, and helps them concentrate on work when no teacher is around. There are some possible improvements to this system for future iterations, to improve effectiveness.
 
 ## Photos
-
+![Photo 1](https://github.com/pohss-com-sg/inaudible/blob/main/photo1.jpg)
+![Photo 2](https://github.com/pohss-com-sg/inaudible/blob/main/photo2.jpg)
 ## Acknowledgements
 We had a really interesting time with this project, and learnt a lot from this experience.
 We would like to thank the following for their support to our team:
